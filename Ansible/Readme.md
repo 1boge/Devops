@@ -28,4 +28,6 @@
 
 ●	лог выполнения плейбук
 
+## Решение:
+
 <img width="1077" alt="изображение" src="https://user-images.githubusercontent.com/67161186/146689620-cfbbbd79-478d-4b2c-972e-9b226f3b2626.png">
