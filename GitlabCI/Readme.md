@@ -18,3 +18,6 @@
 - файл readme.md с выполненным заданием в github репозитории 
 - приложить полученный .gitlab-ci.yaml 
 - скрин успешности выполнение таска в gitlab
+
+Подключенный gitlab-runner:
+![изображение](https://user-images.githubusercontent.com/67161186/147970937-949cef5a-5961-445f-ac77-6b85bdccec20.png)
