@@ -21,3 +21,4 @@
 
 Подключенный gitlab-runner:
 ![изображение](https://user-images.githubusercontent.com/67161186/147970937-949cef5a-5961-445f-ac77-6b85bdccec20.png)
+![изображение](https://user-images.githubusercontent.com/67161186/147971230-dd8eee49-c2f5-4067-88a2-2f7c2bbdb06a.png)
