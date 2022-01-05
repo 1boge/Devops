@@ -20,5 +20,6 @@
 - скрин успешности выполнение таска в gitlab
 
 Подключенный gitlab-runner:
-![изображение](https://user-images.githubusercontent.com/67161186/147970937-949cef5a-5961-445f-ac77-6b85bdccec20.png)
+![изображение](https://user-images.githubusercontent.com/67161186/148269702-bc9d3995-a84a-441b-ace9-dd66fba033fb.png)
+
 
