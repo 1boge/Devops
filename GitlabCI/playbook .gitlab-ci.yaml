@@ -1,0 +1,26 @@
+stages:          # List of stages for jobs, and their order of execution
+  - build
+  - test
+#  - deploy
+
+build-job:       # This job runs in the build stage, which runs first.
+  stage: build
+  script:
+    - echo "Devops Gitlab homework, Start building..."
+    - mkdir -p ./build/
+    - echo "hello world" > ./build/info.txt
+    - echo "Compile complete"
+    - echo ¨Test for file existing:¨
+    - cat ./build/info.txt
+    - echo ¨Test complete¨
+  tags:
+    - netology
+
+unit-test-job:   # This job runs in the test stage.
+  stage: test    # It only starts when the job in the build stage completes successfully.
+  script:
+    - echo "Running unit tests... This will take about 30 seconds."
+    - sleep 30
+    - echo "Test is complete"
+  tags:
+    - netology
