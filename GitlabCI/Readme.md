@@ -22,4 +22,11 @@
 Подключенный gitlab-runner:
 ![изображение](https://user-images.githubusercontent.com/67161186/148269702-bc9d3995-a84a-441b-ace9-dd66fba033fb.png)
 
+Вывод build:
+![изображение](https://user-images.githubusercontent.com/67161186/148356756-eb0863a1-b8f1-4776-8074-0310e657649f.png)
+Вывод test:
+![изображение](https://user-images.githubusercontent.com/67161186/148356863-e9224001-5176-4269-b3eb-0c2a783f9507.png)
+Сам pipline:
+![изображение](https://user-images.githubusercontent.com/67161186/148356963-38676771-8fa2-4c5e-8693-3fcebef556a3.png)
+
 
